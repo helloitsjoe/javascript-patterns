@@ -13,11 +13,15 @@
 
 <hr />
 
-This repository contains common algorithms, design patters, and techniques implemented in JavaScript. Code here is best used for learning purposes and practice. [Contributing](#Contributing) to this repo is appreciated and requested, especially if you're trying to learn JavaScript!
+This repository contains common algorithms, design patters, and techniques implemented in
+JavaScript. Code here is best used for learning purposes and practice. [Contributing](#Contributing)
+to this repo is appreciated and requested, especially if you're trying to learn JavaScript!
 
-**Note:** Code from this repository should not be used in production! There are likely much more robust and well-tested built-in methods or npm packages to accomplish any task
+**Note:** Code from this repository should not be used in production! There are likely much more
+robust and well-tested built-in methods or npm packages to accomplish any task
 
-This repository maintained by [Nick Scialli](https://twitter.com/nas5w) and powered by awesome contributors like you!
+This repository maintained by [Nick Scialli](https://twitter.com/nas5w) and powered by awesome
+contributors like you!
 
 # Contents
 
@@ -49,7 +53,8 @@ This repository maintained by [Nick Scialli](https://twitter.com/nas5w) and powe
 ## Patterns
 
 - [Observer](https://github.com/nas5w/javascript-patterns/blob/master/src/patterns/observer.js)
-- [Revealing Module](https://github.com/nas5w/javascript-patterns/blob/master/src/patterns/revealing-module.js) (Tests needed)
+- [Revealing Module](https://github.com/nas5w/javascript-patterns/blob/master/src/patterns/revealing-module.js)
+  (Tests needed)
 - [Singleton](https://github.com/nas5w/javascript-patterns/blob/master/src/patterns/singleton.js)
 - [Builder](https://github.com/nas5w/javascript-patterns/blob/master/src/patterns/builder.js)
 - TODO: Factory
@@ -81,12 +86,16 @@ This repository maintained by [Nick Scialli](https://twitter.com/nas5w) and powe
 - TODO: Graph
 - TODO: Disjoint Set
 
-## Data Structures
-
-- [Linked List](https://github.com/nas5w/javascript-patterns/blob/master/src/dataStructures/linkedList.js)
-
 # Contributing
 
-**Please make sure to claim an algorithm on the issues list (either by claiming an existing one or creating a new issue if the algo isn't listed). This helps make sure multiple people aren't doing the same work!**
+**Please make sure to claim an algorithm on the issues list (either by claiming an existing one or
+creating a new issue if the algo isn't listed). This helps make sure multiple people aren't doing
+the same work!**
 
-Contributing to this repository is appreciated and requested! Please look at the list above and select a section that has TODO next to it, or one that needs testing. In the former case, please add both the content of that section as well as matching tests in the `tests` directory. Please [Check the open issues](https://github.com/nas5w/javascript-patterns/issues) before working on anything to make sure someone else isn't working on it already. If it looks available, [open a new issue](https://github.com/nas5w/javascript-patterns/issues/new) detailing what you plan to work on and I will verify no one else is working on it. Thank you!
+Contributing to this repository is appreciated and requested! Please look at the list above and
+select a section that has TODO next to it, or one that needs testing. In the former case, please add
+both the content of that section as well as matching tests in the `tests` directory. Please
+[Check the open issues](https://github.com/nas5w/javascript-patterns/issues) before working on
+anything to make sure someone else isn't working on it already. If it looks available,
+[open a new issue](https://github.com/nas5w/javascript-patterns/issues/new) detailing what you plan
+to work on and I will verify no one else is working on it. Thank you!
